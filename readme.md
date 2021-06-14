@@ -1,3 +1,3 @@
 ## Full-Page-ScrollintoView
-git remote add origin https://github.com/imonweb/Full-Page-Scroll-intoView.git
+https://imonweb.github.io/Full-Page-Scroll-intoView/
 
